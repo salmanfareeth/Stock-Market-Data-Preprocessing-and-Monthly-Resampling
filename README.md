@@ -1,7 +1,7 @@
 # 📊 Stock Market Data Preprocessing and Monthly Resampling 🗓️
 # Data Preprocessing and Resampling Script
 
-This Python script processes a CSV file containing stock market data, performs data cleaning and preprocessing, and resamples the data to a monthly frequency. The processed data is then saved as a CSV file for further analysis.
+This Python script processes a CSV file containing stock market data, performs data cleaning and preprocessing, and resamples the data to a monthly frequency. The processed data is then can be saved as a CSV file for further analysis.
 
 ## Features
 
@@ -24,10 +24,10 @@ This Python script processes a CSV file containing stock market data, performs d
 ### Install the dependencies using pip
 
 ```bash
-    pip install pandas
+pip install pandas
 ```
 ```bash
-    pip install os
+pip install os
 ```
 
 ## Installation
