@@ -23,10 +23,12 @@ This Python script processes a CSV file containing stock market data, performs d
 
 ### Install the dependencies using pip
 
-  ```py
+```py
   pip install pandas
+```
+```py
   pip install os
-  ```
+```
 
 ## Installation
 
