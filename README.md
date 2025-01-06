@@ -23,11 +23,10 @@ This Python script processes a CSV file containing stock market data, performs d
 
 ### Install the dependencies using pip
 
-```py
-pip install pandas
-pip install os
-
-```
+  ```bash
+  pip install pandas
+  pip install os
+  ```
 
 ## Installation
 
@@ -36,6 +35,10 @@ pip install os
     git clone https://github.com/salmanfareeth/Stock-Market-Data-Preprocessing-and-Monthly-Resampling.git
     cd Stock-Market-Data-Preprocessing-and-Monthly-Resampling
     ```
+2. **Place your CSV data file in the /data_path/ directory.**
+
+3. **Update the `file_path` and `output_path` variables in the script to match your input data location and desired output directory**
+
 
 ## References
 
@@ -50,4 +53,4 @@ pip install os
 ## Developer Note
 
 Script developed and maintained by `salmanfareeth`.
-This tool is in beta version.
+This script is in beta version.
