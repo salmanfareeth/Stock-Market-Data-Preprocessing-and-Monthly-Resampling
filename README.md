@@ -26,9 +26,28 @@ This Python script processes a CSV file containing stock market data, performs d
 ```py
 pip install pandas
 pip install os
+
 ```
 
+## Installation
 
-bash
-Copy code
-pip install pandas
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/salmanfareeth/Stock-Market-Data-Preprocessing-and-Monthly-Resampling.git
+    cd Stock-Market-Data-Preprocessing-and-Monthly-Resampling
+    ```
+
+## References
+
+- [Pandas Documentation](https://pandas.pydata.org/docs/) - For data manipulation and analysis.
+- [Python OS Module](https://docs.python.org/3/library/os.html) - For interacting with the operating system.
+- [Datetime Module](https://docs.python.org/3/library/datetime.html) - For working with dates and times.
+- [CSV File Format](https://en.wikipedia.org/wiki/Comma-separated_values) - Explanation of CSV file structure and usage.
+- [Pandas Resample Method](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html) - Detailed documentation on data resampling.
+- [Python Regex (Regular Expressions)](https://docs.python.org/3/library/re.html) - For replacing strings using patterns.
+
+
+## Developer Note
+
+Script developed and maintained by `salmanfareeth`.
+This tool is in beta version.
