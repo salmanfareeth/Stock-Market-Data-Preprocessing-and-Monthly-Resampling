@@ -15,14 +15,20 @@ This Python script processes a CSV file containing stock market data, performs d
   - **Low**: Minimum price during the month.
 - Saves the processed data to a specified output directory.
 
-## Welcome Art
+## Dependencies
 
-```plaintext
-   _____                _ _        _____                    _            
-  / ____|              | ( )      / ____|                  | |           
- | (___  _   _  ___  __| |/ ___  | |     _____   _____ _ __| |_ ___ _ __ 
-  \___ \| | | |/ _ \/ _` | / __| | |    / _ \ \ / / _ \ '__| __/ _ \ '__|
-  ____) | |_| |  __/ (_| | \__ \ | |___| (_) \ V /  __/ |  | ||  __/ |   
- |_____/ \__, |\___|\__,_| |___/  \_____\___/ \_/ \___|_|   \__\___|_|   
-          __/ |                                                          
-         |___/                                                           
+**Python 3.7 or higher**
+
+## Required libraries
+
+### Install the dependencies using pip
+
+```py
+pip install pandas
+pip install os
+```
+
+
+bash
+Copy code
+pip install pandas
