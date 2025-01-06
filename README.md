@@ -33,7 +33,7 @@ pip install os
 ## Installation
 
 1. **Clone the repository:**
-    ```bash
+    ```py
     git clone https://github.com/salmanfareeth/Stock-Market-Data-Preprocessing-and-Monthly-Resampling.git
     cd Stock-Market-Data-Preprocessing-and-Monthly-Resampling
     ```
