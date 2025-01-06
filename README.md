@@ -24,16 +24,16 @@ This Python script processes a CSV file containing stock market data, performs d
 ### Install the dependencies using pip
 
 ```bash
-pip install pandas
+    pip install pandas
 ```
 ```bash
-pip install os
+    pip install os
 ```
 
 ## Installation
 
 1. **Clone the repository:**
-    ```py
+    ```bash
     git clone https://github.com/salmanfareeth/Stock-Market-Data-Preprocessing-and-Monthly-Resampling.git
     cd Stock-Market-Data-Preprocessing-and-Monthly-Resampling
     ```
